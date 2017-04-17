@@ -1,0 +1,13 @@
+(dp0
+S'po'
+p1
+(lp2
+S'dele000'
+p3
+aS'accbtt000'
+p4
+aS'accpeled001'
+p5
+aS'accready000'
+p6
+as.

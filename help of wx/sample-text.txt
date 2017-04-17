@@ -1,0 +1,8 @@
+{'addr1': u'q',
+ 'addr2': u'x',
+ 'city': u'sss',
+ 'email': u'a',
+ 'name': u'a',
+ 'phone': u'aa',
+ 'state': u'a',
+ 'zip': u'a'}jkljo
