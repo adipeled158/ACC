@@ -17,7 +17,7 @@ import socket
 import time
 from acc_msg_editor import Acc_msg_edit as editor_data
 
-
+print "adi peled was was here"
 
 
 
